@@ -1,0 +1,4 @@
+-v1.3
+Synaptic events fitting with HPC capabilities (JURECA-booster, GALILEO, NSG, Service Account - NSG) and 'ipywidgets':'5.2.2', 'widgetsnbextension':'1.2.6'
+-v1.4
+Python3 version of synaptic events fitting with HPC capabilities (JURECA-booster, GALILEO, NSG, Service Account - NSG) and 'ipywidgets':'7.5.1', 'widgetsnbextension':'3.5.1'

@@ -1,0 +1,2 @@
+-v1.1
+Python3 version of synaptic plasticity with 'ipywidgets':'7.5.1', 'widgetsnbextension':'3.5.1'

@@ -1,0 +1,5 @@
+-v1.1
+Build your own single cell with HPC capabilities (NSG, PizDaint, Service Account - PizDaint) and 'ipywidgets':'5.2.2', 'widgetsnbextension':'1.2.6'
+
+-v1.2
+Python3 version of build your own single cell with HPC capabilities (NSG, PizDaint, Service Account - PizDaint) and 'ipywidgets':'7.5.1', 'widgetsnbextension':'3.5.1'
